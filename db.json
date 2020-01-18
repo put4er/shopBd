@@ -26,7 +26,7 @@
     {"id": 24, "name": "грудень"}
     ],
   "products": [
-      {"Молоко": [
+      {"Milk": [
         {"id": 1, "used": 46, "month": 1},
         {"id": 2, "used": 48, "month": 2},
         {"id": 3, "used": 49, "month": 3},
@@ -52,7 +52,7 @@
         {"id": 23, "used": 58, "month": 23},
         {"id": 24, "used": 53, "month": 24}
         ]},
-      {"Сир": [
+      {"Cheese": [
         {"id": 1, "used": 46, "month": 1},
         {"id": 2, "used": 48, "month": 2},
         {"id": 3, "used": 49, "month": 3},
